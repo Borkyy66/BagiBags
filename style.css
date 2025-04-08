@@ -109,13 +109,13 @@ h2{
     color: gray;
 }
 
-.kaltas {
+.product-gallery {
     display: flex;
     justify-content: center;
     gap: 30px;
     flex-wrap: wrap;
 }
-.kaltas img {
+.product-gallery img {
     width: 300px;
     height: 300px;
     border-radius: 10px;
